@@ -1,2 +1,3 @@
 # Prank-Virus
-# Current WIP project don't know if it will ever be done
+Doesn't do permenate damage *hopefully*
+Feel free to compile to exe
